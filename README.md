@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taty-TI
-- 👀 I’m interested in new job opportunities.
-- 🌱 I’m currently learning  automation tools for software testing.ing.
+- 👀 I’m interested in new job opportunities na testing area.
+- 🌱 I’m currently learning  automation tools for software testing.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me kymyly@gmail.com
 
