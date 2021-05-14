@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taty-TI
-- 👀 I’m interested in  novas oportunidades de trabalho.
-- 🌱 I’m currently learning  ferramentas de autormação para testes de software.
+- 👀 I’m interested in new job opportunities.
+- 🌱 I’m currently learning  authorization tools for software testing.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me kymyly@gmail.com
 
